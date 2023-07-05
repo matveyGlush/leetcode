@@ -15,19 +15,3 @@ function generate(numRows: number): number[][] {
     return result;
 }
 console.log(generate(numRows))
-
-
-// function generate(numRows: number): number[][] {
-//     let result: number[][] = [[1]]
-//     let temp: number[] = [1]
-//
-//     for (let i = 1; i < numRows; i++) {
-//         for (let j = 1; j < i; j++) {
-//             temp[j - 1] += temp[j]
-//         }
-//         temp.unshift(1)
-//         result.push(temp.slice())
-//     }
-//
-//     return result
-// };
