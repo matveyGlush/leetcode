@@ -10,3 +10,4 @@ function addBinary(a: string, b: string): string {
     ans += ca == 1 ? ca : "";
     return ans.split('').reverse().join('');
 }
+console.log(addBinary("11", '1'))
