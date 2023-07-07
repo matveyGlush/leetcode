@@ -43,7 +43,7 @@
 </ul>
 
 ### 2D Array
-<ul> 
+<ul id="2D"> 
   <li>
     <a href="https://leetcode.com/problems/diagonal-traverse/">498. Diagonal Traverse</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/2dArrays/findDiagonalOrder.ts">solution</a>
   </li>
@@ -69,7 +69,7 @@
 </ul>
 
 ### Two-Pointer Technique
-<ul> 
+<ul id="Two-Pointer"> 
   <li>
     <a href="https://leetcode.com/problems/reverse-string/">344. Reverse String</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/strings/reverseString.ts">solution</a>
   </li>
