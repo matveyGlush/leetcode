@@ -9,7 +9,7 @@
     <a href="https://leetcode.com/explore/learn/card/array-and-string/">Array and String</a>
     <ul>
       <li><a href="#Array">Array</a></li>
-      <li><a href="#2D">2D Array</a></li>
+      <li><a href="#2D Array">2D Array</a></li>
       <li><a href="#String">String</a></li>
       <li><a href="#Two-Pointer">Two-Pointer Technique</a></li>
       <li><a href="#Conclusion">Conclusion</a></li>
@@ -43,7 +43,7 @@
 </ul>
 
 ### 2D Array
-<ul id="2D"> 
+<ul> 
   <li>
     <a href="https://leetcode.com/problems/diagonal-traverse/">498. Diagonal Traverse</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/2dArrays/findDiagonalOrder.ts">solution</a>
   </li>
