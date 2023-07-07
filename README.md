@@ -9,9 +9,9 @@
     <a href="https://leetcode.com/explore/learn/card/array-and-string/">Array and String</a>
     <ul>
       <li><a href="#Array">Array</a></li>
-      <li><a href="2D Array">2D Array</a></li>
+      <li><a href="2D">2D Array</a></li>
       <li><a href="String">String</a></li>
-      <li><a href="Two-Pointer Technique">Two-Pointer Technique</a></li>
+      <li><a href="Two-Pointer">Two-Pointer Technique</a></li>
       <li><a href="Conclusion">Conclusion</a></li>
     </ul>
   </li>
