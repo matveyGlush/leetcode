@@ -89,3 +89,25 @@
     <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">209. Minimum Size Subarray Sum</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/arrays/minSubArrayLen.ts">solution</a>
   </li>
 </ul>
+
+### Conclusion
+<ul> 
+  <li>
+    <a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/arrays/rotate.ts">solution</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/pascals-triangle-ii/">119. Pascal's Triangle II</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/arrays/pascalsTriangle2.ts">solution</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/reverse-words-in-a-string/">151. Reverse Words in a String</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/strings/reverseWords.ts">solution</a>
+  </li>
+    <li>
+    <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">557. Reverse Words in a String III</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/strings/reverseWords3.ts">solution</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/arrays/removeDuplicates.ts">solution</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a> :point_left: go to origin problem </br> see <a href="https://github.com/matveyGlush/leetcode/blob/master/src/arrays/moveZeroes.ts">solution</a>
+  </li>
+</ul>
