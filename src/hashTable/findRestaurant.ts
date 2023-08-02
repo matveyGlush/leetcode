@@ -11,5 +11,5 @@ function findRestaurant(list1: string[], list2: string[]): string[] {
       sum = map.get(list2[i]) + i;
     } else if (map.get(list2[i]) + i === sum) ans.push(list2[i])
   }
-  return ans
+  return ans;
 }
