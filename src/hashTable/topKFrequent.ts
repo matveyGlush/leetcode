@@ -11,5 +11,3 @@ function topKFrequent(nums: number[], k: number): number[] {
   }
   return ans;
 }
-console.log(topKFrequent([4,1,-1,2,-1,2,3],2))
-  // .sort((elem, elem2) => elem2[1] - elem[1])
