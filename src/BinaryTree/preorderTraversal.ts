@@ -14,9 +14,10 @@ function preorderTraversal(root: TreeNode | null): number[] {
 
   const traversed: number[] = [];
   const stack: TreeNode[] = [root];
+  let node: TreeNode;
 
   while (stack.length > 0) {
-    const node = stack.pop();
+    node = stack.pop();
 
     traversed.push(node.val);
 
