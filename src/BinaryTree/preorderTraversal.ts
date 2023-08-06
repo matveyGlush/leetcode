@@ -10,6 +10,24 @@ class TreeNode {
 }
 
 function preorderTraversal(root: TreeNode | null): number[] {
+  if (! root) return [];
+
+  const traversed: number[] = [];
+  const stack: TreeNode[] = [root];
+
+  while (stack.length > 0) {
+    const node = stack.pop();
+
+    traversed.push(node.val);
+
+    node.right && stack.push(node.right);
+    node.left && stack.push(node.left);
+  }
+
+  return traversed;
+}
+
+function preorderTraversalMorris(root: TreeNode | null): number[] {
   let ans: Array<number> = [];
   let last: TreeNode | null = null;
   let curr = root;
